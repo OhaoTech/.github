@@ -1,29 +1,58 @@
-# Ohao Tech
+# OHAO.TECH
 
-🌟 **Who We Are:** Ohao Tech is a dynamic special interest group composed of young, enthusiastic individuals deeply fascinated by the rapidly evolving realms of computer graphics, artificial intelligence, and game industry development. Based at the intersection of innovation and creativity, our group thrives on exploring the limitless possibilities these fields offer.
+Welcome to the GitHub profile of **OHAO.TECH**, a startup focused on innovation in technology through a unique organizational structure and collaborative environment.
 
-🚀 **Our Mission:** Our journey is fueled by a singular mission - to push the boundaries of technology and imagination. We are committed to developing cutting-edge software and tools that not only advance the state of the art in computer graphics and AI but also contribute meaningfully to the gaming industry. We believe in the power of technology to transform ideas into reality, and we are dedicated to realizing this potential through our projects.
+## About Us
 
-🖥️ **Our Projects:** At Ohao Tech, we take pride in our hands-on approach. Our portfolio boasts a variety of projects, ranging from experimental AI algorithms to innovative computer graphics applications, all designed to challenge the status quo. Each project is a testament to our group's skill, creativity, and dedication to excellence.
+OHAO.TECH is structured like a tree, with OHAO as the root node from which various studios branch out as child nodes. This allows for a flexible, creative, and passion-driven approach to project development.
 
-🤝 **Collaborate and Grow:** Collaboration is the heart of innovation. We actively seek members who are passionate, skilled, and ready to contribute their unique perspectives. Whether you're a seasoned expert or a budding enthusiast in our fields of interest, Ohao Tech offers a platform to collaborate, learn, and grow.
+## Organizational Structure
 
-💡 **Join Us:** If you're excited about making a mark in the worlds of AI, computer graphics, and gaming, we welcome you to join Ohao Tech. Together, we can explore new horizons, develop groundbreaking software, and be part of a community that’s shaping the future of technology.
+- **Root Node:** OHAO
+- **Studios:** Currently hosting one studio:
+  - **Dalé Studio**: Specializes in AI and Gaming Software Development, with a focus on a gamified LLM (Large Language Model) application.
 
-🔗 **Get Involved:** Start by visiting our [GitHub repository](https://github.com/OhaoTech/) . Here, you’ll find our ongoing projects, resources, and forums for discussion. We encourage you to contribute, whether it’s through code, ideas, or feedback. Your involvement is the key to our collective success.
+![1737766492034](image/README/1737766492034.png)
 
-📣 **Stay Connected:** Follow us on [Discord](https://discord.gg/qgMw386zC8) to stay updated on our latest developments, meetups, and events. We believe in the power of community, and our social platforms are a great way to connect with fellow tech enthusiasts and stay engaged with the group's activities.
+## Operational Mode
 
-🌐 **Explore, Create, Innovate:** With Ohao Tech, the possibilities are endless. We are more than just a group - we are a movement, driven by the passion to create and innovate. Join us in this exciting journey, and let’s make a difference together!
+We operate under a **Founder Mode**, similar to companies like Airbnb, where the founder leads all operations but encourages open collaboration. This mode promotes:
 
+- **Creativity and Autonomy:** Team members are encouraged to work on projects they are passionate about or start their own studios within OHAO.TECH.
+- **Diversity in Business:** Fostering a wide range of innovative projects.
 
-<!--
+## Financial Structure
 
-**Here are some ideas to get you started:**
+- **Profit Sharing:** Upon profitability, 15% of studio profits are shared for management costs and other organizational needs, ensuring a win-win for all contributors.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Benefits
+
+1. **Shared Profit:** Encourages teamwork and collective success through a 15% profit share.
+2. **Mutual Assistance:** Studios support and learn from each other, enhancing growth.
+3. **Diversity:** Encourages varied business ventures, attracting a broad spectrum of creators and enthusiasts.
+
+## Current Projects
+
+- **Dalé Studio** is currently in the development phase of a gamified LLM app, seeking collaborators with interests in AI and gaming.
+
+## Join Us
+
+We are in the early stages, with no current products or revenue, but our vision is to develop successful projects that will sustain our community. If you are passionate about technology, AI, gaming, or have an innovative idea, join us to help shape the future of OHAO.TECH.
+
+- **Contribute:** Interested individuals can join existing projects or propose new studio ideas.
+- **Collaborate:** Share your skills, learn from others, and grow with us.
+
+## Contact
+
+For collaboration or inquiries, feel free to reach out:
+
+- **GitHub:** [@Qervas](https://github.com/Qervas/)
+- **Email:** [Frank Yin](djmax96945147@outlook.com)
+
+## Copyright
+
+All content, code, and projects under OHAO.TECH are © [2025] OHAO.TECH. All rights reserved. Unauthorized use, reproduction, or distribution is strictly prohibited. For commercial use or licensing inquiries, please contact us.
+
+---
+
+Thank you for visiting the OHAO.TECH GitHub profile. We look forward to building innovative technology solutions together!
