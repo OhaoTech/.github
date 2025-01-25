@@ -47,7 +47,7 @@ We are in the early stages, with no current products or revenue, but our vision 
 For collaboration or inquiries, feel free to reach out:
 
 - **GitHub:** [@Qervas](https://github.com/Qervas/)
-- **Email:** [Frank Yin](djmax96945147@outlook.com)
+- **Email:** [Frank Yin](mailto:djmax96945147@outlook.com)
 
 ## Copyright
 
